@@ -2,3 +2,5 @@
 Pokemon
 __pycache__
 migrations
+start.sh
+gunicorn.conf.py
